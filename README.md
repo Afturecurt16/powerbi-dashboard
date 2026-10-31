@@ -1,2 +1,19 @@
-# powerbi-dashboard
-Power BI dashboard: data analysis, KPI, DAX and visualization
+
+# Power BI | Аналитический дашборд
+
+## Превью отчёта
+
+![Power BI Dashboard](dashboard.png)
+
+## О проекте
+
+Интерактивный аналитический отчёт, разработанный в Power BI.
+
+### Содержание анализа
+- Анализ ключевых показателей
+- Исследование динамики
+- Визуализация результатов
+- Интерактивные фильтры
+
+### Файлы проекта
+[Скачать Power BI (.pbix)](dashboard.pbix)
