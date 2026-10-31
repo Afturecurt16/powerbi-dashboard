@@ -16,4 +16,4 @@
 - Интерактивные фильтры
 
 ### Файлы проекта
-[Скачать Power BI (.pbix)](Yandex_2024_2025.pbix.pbix)
+[Скачать Power BI (.pbix)](Yandex_2024_2025.pbix)
