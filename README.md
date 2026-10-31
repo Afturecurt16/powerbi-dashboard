@@ -3,7 +3,10 @@
 
 ## Превью отчёта
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Снимок экрана 2026-10-31 120445.png)
+![Power BI Dashboard](Снимок экрана 2026-10-31 120520.png)
+![Power BI Dashboard](Снимок экрана 2026-10-31 120548.png)
+![Power BI Dashboard](Снимок экрана 2026-10-31 120609.png)
 
 ## О проекте
 
